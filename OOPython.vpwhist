@@ -1,0 +1,365 @@
+[Global]
+CurrentProject=OOPython.vpj
+[ProjectDates]
+OOPython.vpj=20220225142849984
+[ActiveConfig]
+OOPython.vpj=Debug
+[WildcardCache]
+version=1
+NofProjects=1
+OOPython.vpj
+NofWildcards=1
+*
+*
+*.tiff;*.tbz;*.pdb;*.avi;*.msi;*.cpgz;*.rpm;*.class;*.a;*.gif;*.taz;*.bin;*.jpg;*.svgz;*.exe;*.mp3;*.jar;*.ico;*.tif;*.txz;*.sl;*.png;*.jpeg;*.tar;*.Z;*.sta;*.xslx;*.gz;*.bz2;*.xz;*.mpeg;*.chm;*.dll;*.7z;*.lib;*.so;*.ex;*.tgz;*.war;*.vtg;*.docx;*.rar;*.o;*.wmv;*.cpio;*.zip;*.bmp;*.suo;*.xlsx;*.7zip;*.winmd;*.pdf;*.obj;*.z;*.tbz2;.svn\;.CVS\;SSCS\;.DS_Store;*.vpw;*.vpj;*.vpwhist;*.vpwhistu
+1
+0
+1
+
+
+NofCompileExcludes=0
+NofEmbeddedResourceExcludes=0
+NofNoneExcludes=0
+NofFiles=45
+.gitignore
+.git\logs\HEAD
+.git\logs\refs\remotes\origin\main
+.git\objects\94\a25f7f4cb416c083d265558da75d457237d671
+.git\objects\06\ab86f33c6fe9234aac3d1041234859a3d7fdf6
+.git\config
+.git\objects\94\53990800a7113ef397f7756f62b4ab30657e94
+.git\hooks\README.sample
+.git\refs\heads\main
+.git\FETCH_HEAD
+.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+.idea\ObjectOrientedPythonTraining.iml
+.git\objects\fb\230ae629aff73632460532e7c477db4dcb9a7a
+.git\objects\91\f4c8cfc546c9c017f72cefa147b29ed62866c4
+.git\objects\13\566b81b018ad684f3a35fee301741b2734c8f4
+MyNoteBook\command_option.py
+.idea\workspace.xml
+MyNoteBook\__pycache__\notebook.cpython-39.pyc
+.git\objects\10\5ce2da2d6447d11dfe32bfb846c3d5b199fc99
+.git\objects\d5\6657add3eb3c246989284ec6e6a8475603cf1d
+.git\objects\82\5d64ad231718bde49cdd4655da8595f5b700e4
+.idea\vcs.xml
+.git\HEAD
+.git\refs\remotes\origin\main
+.git\objects\c5\5bda38f17aad04792c36c7581fda23bb42bf9e
+.git\logs\refs\heads\main
+.git\objects\96\719d7f7a700c20d045f3f704942e6eee58d24c
+.idea\inspectionProfiles\profiles_settings.xml
+MyNoteBook\menu.py
+.idea\.gitignore
+menu.py
+.git\objects\c0\c219be58d95f4851ae22d8869fbcc47a5d0b29
+MyNoteBook\notebook.py
+.idea\misc.xml
+.git\objects\d0\67ca1ab1ed8c5d989b7a51ac5cc534422cc9cd
+README.md
+.git\objects\97\824ec9b0149e48c91dce4fee530335b327c686
+.git\objects\38\ff0beaf2a2a01d680bfd9f202b6e3ab0106349
+.git\objects\2c\21ab762b36b687a00fd2605b0d080b70abb7ae
+.git\objects\d0\876a78d06ac03b5d78c8dcdb95570281c6f1d6
+.git\info\exclude
+.git\index
+.idea\modules.xml
+.git\description
+.git\objects\36\75b2304300fd50b678cdd73dbded8cb908f318
+NofFolders=39
+.git\logs\refs\remotes\
+132902074066209468
+.git\refs\
+132902074004314339
+.git\objects\10\
+132902135915599226
+.idea\inspectionProfiles\
+132902081484364876
+.git\logs\
+132902073989755012
+.idea\
+132902749643101080
+.git\objects\info\
+132902073983471139
+.git\objects\91\
+132902073989607992
+MyNoteBook\
+132902125446766196
+.git\logs\refs\
+132902074004327086
+.git\refs\tags\
+132902073983476134
+.git\objects\c0\
+132902073989541907
+.git\objects\pack\
+132902073983471139
+.git\objects\13\
+132902135914492588
+.git\info\
+132902073983509097
+.git\logs\refs\remotes\origin\
+132902074066211139
+.git\objects\e6\
+132902097976884296
+.git\objects\d0\
+132902136182018130
+.git\objects\c5\
+132902135917041912
+.git\refs\remotes\origin\
+132902136215180598
+New folder\
+132902739211861729
+.git\objects\96\
+132902073989670723
+.git\objects\06\
+132902136181906694
+.git\objects\82\
+132902135916966480
+.git\logs\refs\heads\
+132902073989730021
+.git\objects\38\
+132902073989478498
+.git\objects\2c\
+132902135915679453
+.git\objects\94\
+132902136181864590
+.git\
+132902772160904065
+.git\objects\36\
+132902136181956770
+.git\objects\
+132902136182018130
+.git\objects\d5\
+132902135915648573
+.git\refs\remotes\
+132902074066202094
+MyNoteBook\__pycache__\
+132902116769191207
+
+132902739211861729
+.git\hooks\
+132902073983493186
+.git\refs\heads\
+132902136182100095
+.git\objects\fb\
+132902116590179527
+.git\objects\97\
+132902136181801003
+[TreeExpansion2]
+-@ OOPython.vpj
+  - ObjectOrientedPythonTraining
+    + .git
+      + hooks
+      + info
+      + logs
+        + refs
+          + heads
+          + remotes
+            + origin
+      + objects
+        + 06
+        + 10
+        + 13
+        + 2c
+        + 36
+        + 38
+        + 82
+        + 91
+        + 94
+        + 96
+        + 97
+        + c0
+        + c5
+        + d0
+        + d5
+        + e6
+        + fb
+      + refs
+        + heads
+        + remotes
+          + origin
+    + .idea
+      + inspectionProfiles
+    - MyNoteBook
+      + __pycache__
+scroll:0
+[State]
+MONITOR_CONFIGS: 131
+MONITOR_CONFIG: 129 -1920 0 1920 1080,0 0 1920 1080
+SCREEN: 1920 1080 360 77 1206 932 0 0 M 0 0 0 0 1536 513 0
+MDISTATE: 1
+AAAAAwAAAAIAAAAB2gAAAAIAMAAAAAAAAAAzAAAHfwAABAsAAAAAAAAAAAAAB38AAAQ3AAAAAuoAAAOwAAAAAvsAAAADAAAAAwAAAAAAAAABAAAAAvsAAAADAAAAAwAAAAAAAAACAAAAAfwAAAExAAAAASQANAA6ADoAOgBDADoAXABVAHMAZQByAHMAXABzAGYAbwByAHIAZQBzAHQAXABPAG4AZQBEAHIAaQB2AGUAIAAtACAAQgBlAGEAdQBmAG8AcgB0ACAAQwBvAHUAbgB0AHkAIABHAG8AdgBlAHIAbgBtAGUAbgB0AFwARABvAGMAdQBtAGUAbgB0AHMAXABEAGUAdgBlAGwAbwBwAG0AZQBuAHQAXABQAHkAdABoAG8AbgBcAE8AYgBqAGUAYwB0AE8AcgBpAGUAbgB0AGUAZABQAHkAdABoAG8AbgBUAHIAYQBpAG4AaQBuAGcAXABNAHkATgBvAHQAZQBCAG8AbwBrAFwAYwBvAG0AbQBhAG4AZABfAG8AcAB0AGkAbwBuAC4AcAB5AQD/////AAH8AAABHQAAAAEQADIAOgA6ADoAQwA6AFwAVQBzAGUAcgBzAFwAcwBmAG8AcgByAGUAcwB0AFwATwBuAGUARAByAGkAdgBlACAALQAgAEIAZQBhAHUAZgBvAHIAdAAgAEMAbwB1AG4AdAB5ACAARwBvAHYAZQByAG4AbQBlAG4AdABcAEQAbwBjAHUAbQBlAG4AdABzAFwARABlAHYAZQBsAG8AcABtAGUAbgB0AFwAUAB5AHQAaABvAG4AXABPAGIAagBlAGMAdABPAHIAaQBlAG4AdABlAGQAUAB5AHQAaABvAG4AVAByAGEAaQBuAGkAbgBnAFwATQB5AE4AbwB0AGUAQgBvAG8AawBcAG0AZQBuAHUALgBwAHkAAP////8AAPwAAAElAAAAARgAMwA6ADoAOgBDADoAXABVAHMAZQByAHMAXABzAGYAbwByAHIAZQBzAHQAXABPAG4AZQBEAHIAaQB2AGUAIAAtACAAQgBlAGEAdQBmAG8AcgB0ACAAQwBvAHUAbgB0AHkAIABHAG8AdgBlAHIAbgBtAGUAbgB0AFwARABvAGMAdQBtAGUAbgB0AHMAXABEAGUAdgBlAGwAbwBwAG0AZQBuAHQAXABQAHkAdABoAG8AbgBcAE8AYgBqAGUAYwB0AE8AcgBpAGUAbgB0AGUAZABQAHkAdABoAG8AbgBUAHIAYQBpAG4AaQBuAGcAXABNAHkATgBvAHQAZQBCAG8AbwBrAFwAbgBvAHQAZQBiAG8AbwBrAC4AcAB5AAD/////AAAAAAAA
+STANDARD_LAYOUT: 62 1 45 12 4 M 0
+_tbbufftabs_form F=11
+_tbprojects_form F=8
+_tbdebug_watches_form F=64
+_tbbaseclasses_form F=40
+_tbdeltasave_form F=0
+_tbdebug_regs_form F=64
+_tbFTPOpen_form F=0
+_tbdebug_threads_form F=64
+_tbclipboard_form F=44
+_tbopen_form F=40
+_tbterminal_form F=8
+_tbdebug_exceptions_form F=384
+_tbdebug_classes_form F=64
+_tbtagwin_form F=8
+_tbdebug_autovars_form F=64
+_tbsymbolcallers_form F=40
+_tbFTPClient_form F=0
+_tbtagrefs_form F=8
+_tbfind_symbol_form F=32
+_tbdebug_locals_form F=64
+_tbdebug_members_form F=64
+_tbhighlight_form F=8
+_tbdebug_memory_form F=64
+_tbsymbol_args_form F=8
+_tbdebug_stack_form F=64
+_tbsymbolcalls_form F=40
+_tbsymbol_props_form F=8
+_tbfilelist_form F=44
+_tboutputwin_form F=8
+_tbclass_form F=8
+_tbunittest_form F=0
+_tbfind_form F=36
+_tbmessages_browser_form F=8
+_tbannotations_browser_form F=0
+_tbdebug_breakpoints_form F=384
+_tbnotification_form F=36
+_tbinteractive_form F=8
+_tbproctree_form F=8
+_tbbookmarks_form F=8
+_tbregex_form F=40
+_tbslickc_stack_form F=8
+_tbderivedclasses_form F=40
+_tbshell_form F=8
+_tbcbrowser_form F=8
+_tbsearch_form F=8
+_tboutputwin_form T=0
+_tbtagwin_form T=0
+_tbopen_form T=0
+_tbproctree_form T=0
+_tbsearch_form T=0
+_tbmessages_browser_form T=0
+_tbshell_form T=0
+_tbcbrowser_form T=0
+_tbtagrefs_form T=0
+_tbclass_form T=0
+_tbprojects_form T=0
+_tbterminal_form T=0
+AAAAAwAAAAEAAAAB2gAAAAIAMAAAAAAAAAAzAAAHfwAABAsAAAAAAAAAAAAAB38AAAQ3AAAAAesAAAVOAAAAAPsAAAACAAAAAgAAAAEAAAAA+wAAAAIAAAACAAAAAAAAAAH9AAACNQAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAAXwAAAAAAAH7AAAAAgAAAAIAAAABAAAAAPsAAAACAAAAAgAAAAAAAAAB/QAAAIcAAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAANYAAAAAAAC+wAAAAEAAAABAAAAAPsAAAABAAAAAQAAAAD8AAAAPQAAAAAoADAAOgA6ADoAXwB0AGIAcAByAG8AagBlAGMAdABzAF8AZgBvAHIAbQEA/////wAA///////////9AAABVwAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAA1gAAAAAAAL7AAAABAAAAAQAAAAAAAAAAwAAAAIAAAAB+wAAAAQAAAAEAAAAAAAAAAEAAAACAAAAA/wAAAA9AAAAACgAMAA6ADoAOgBfAHQAYgBwAHIAbwBjAHQAcgBlAGUAXwBmAG8AcgBtAQD/////AAD///////////wAAAA3AAAAACIAMAA6ADoAOgBfAHQAYgBjAGwAYQBzAHMAXwBmAG8AcgBtAAD/////AAD///////////wAAAA9AAAAACgAMAA6ADoAOgBfAHQAYgBjAGIAcgBvAHcAcwBlAHIAXwBmAG8AcgBtAAD/////AAD///////////wAAAA1AAAAACAAMAA6ADoAOgBfAHQAYgBvAHAAZQBuAF8AZgBvAHIAbQAA/////wAA///////////9AAACxQAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAAzQAAQAAAAH7AAAAAgAAAAIAAAAAAAAAAfsAAAACAAAAAgAAAAEAAAAA/AAAACkAAAAAHAA6ADoAOgBNAEQASQBBAFIARQBBAFQASQBMAEUBAAAAAgIAAf0AAAJFAAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAAB1AAAAAAAAvsAAAAHAAAABwAAAAMAAAAGAAAABQAAAAQAAAACAAAAAQAAAAD7AAAABwAAAAcAAAAAAAAAAQAAAAIAAAADAAAABAAAAAUAAAAG/AAAADkAAAAAJAAwADoAOgA6AF8AdABiAHMAZQBhAHIAYwBoAF8AZgBvAHIAbQAA/////wAA///////////8AAAAOQAAAAAkADAAOgA6ADoAXwB0AGIAdABhAGcAdwBpAG4AXwBmAG8AcgBtAAD/////AAD///////////wAAAA7AAAAACYAMAA6ADoAOgBfAHQAYgB0AGEAZwByAGUAZgBzAF8AZgBvAHIAbQAA/////wAA///////////8AAAANwAAAAAiADAAOgA6ADoAXwB0AGIAcwBoAGUAbABsAF8AZgBvAHIAbQEA/////wAA///////////8AAAATQAAAAA4ADAAOgA6ADoAXwB0AGIAbQBlAHMAcwBhAGcAZQBzAF8AYgByAG8AdwBzAGUAcgBfAGYAbwByAG0AAP////8AAP///////////AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAHQAZQByAG0AaQBuAGEAbABfAGYAbwByAG0AAP////8AAP///////////AAAAD8AAAAAKgAwADoAOgA6AF8AdABiAG8AdQB0AHAAdQB0AHcAaQBuAF8AZgBvAHIAbQAA/////wAA//////////8AAAAA2wAAAAAAAAAC2wAAAAAAAAAB2wAAAAAAAAAD2wAAAAAAAAAA
+QTOOLBAR 2 0
+AAAA/wAAAAD9AAAAAAAAB4AAAAPZAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAQAFMAdABhAG4AZABhAHIAZAEAAAAA/////wAAAAAAAAAAAAAAHgBDAHUAcgByAGUAbgB0ACAAQwBvAG4AdABlAHgAdAEAAAKi/////wAAAAAAAAAA
+_tbstandard_form 1
+_tbcontext_form 1
+APP_LAYOUT: 62 1 45 12 4 M 0
+_tbbufftabs_form F=11
+_tbprojects_form F=8
+_tbdebug_watches_form F=64
+_tbbaseclasses_form F=40
+_tbdeltasave_form F=0
+_tbdebug_regs_form F=64
+_tbFTPOpen_form F=0
+_tbdebug_threads_form F=64
+_tbclipboard_form F=44
+_tbopen_form F=40
+_tbterminal_form F=8
+_tbdebug_exceptions_form F=384
+_tbdebug_classes_form F=64
+_tbtagwin_form F=8
+_tbdebug_autovars_form F=64
+_tbsymbolcallers_form F=40
+_tbFTPClient_form F=0
+_tbtagrefs_form F=8
+_tbfind_symbol_form F=32
+_tbdebug_locals_form F=64
+_tbdebug_members_form F=64
+_tbhighlight_form F=8
+_tbdebug_memory_form F=64
+_tbsymbol_args_form F=8
+_tbdebug_stack_form F=64
+_tbsymbolcalls_form F=40
+_tbsymbol_props_form F=8
+_tbfilelist_form F=44
+_tboutputwin_form F=8
+_tbclass_form F=8
+_tbunittest_form F=0
+_tbfind_form F=36
+_tbmessages_browser_form F=8
+_tbannotations_browser_form F=0
+_tbdebug_breakpoints_form F=384
+_tbnotification_form F=36
+_tbinteractive_form F=8
+_tbproctree_form F=8
+_tbbookmarks_form F=8
+_tbregex_form F=40
+_tbslickc_stack_form F=8
+_tbderivedclasses_form F=40
+_tbshell_form F=8
+_tbcbrowser_form F=8
+_tbsearch_form F=8
+_tboutputwin_form T=0
+_tbtagwin_form T=0
+_tbopen_form T=0
+_tbproctree_form T=0
+_tbsearch_form T=0
+_tbmessages_browser_form T=0
+_tbshell_form T=0
+_tbcbrowser_form T=0
+_tbtagrefs_form T=0
+_tbclass_form T=0
+_tbprojects_form T=0
+_tbterminal_form T=0
+AAAAAwAAAAEAAAAB2gAAAAIAMAAAAAAAAAAzAAAHfwAABAsAAAAAAAAAAAAAB38AAAQ3AAAAAesAAAVOAAAAAPsAAAACAAAAAgAAAAEAAAAA+wAAAAIAAAACAAAAAAAAAAH9AAACNQAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAAXwAAAAAAAH7AAAAAgAAAAIAAAABAAAAAPsAAAACAAAAAgAAAAAAAAAB/QAAAIcAAAAAGgA6ADoAOgAvAHYARABvAGMAawBBAHIAZQBhAQAAAANYAAAAAAAC+wAAAAEAAAABAAAAAPsAAAABAAAAAQAAAAD8AAAAPQAAAAAoADAAOgA6ADoAXwB0AGIAcAByAG8AagBlAGMAdABzAF8AZgBvAHIAbQEA/////wAA///////////9AAABVwAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAA1gAAAAAAAL7AAAABAAAAAQAAAAAAAAAAwAAAAIAAAAB+wAAAAQAAAAEAAAAAAAAAAEAAAACAAAAA/wAAAA9AAAAACgAMAA6ADoAOgBfAHQAYgBwAHIAbwBjAHQAcgBlAGUAXwBmAG8AcgBtAQD/////AAD///////////wAAAA3AAAAACIAMAA6ADoAOgBfAHQAYgBjAGwAYQBzAHMAXwBmAG8AcgBtAAD/////AAD///////////wAAAA9AAAAACgAMAA6ADoAOgBfAHQAYgBjAGIAcgBvAHcAcwBlAHIAXwBmAG8AcgBtAAD/////AAD///////////wAAAA1AAAAACAAMAA6ADoAOgBfAHQAYgBvAHAAZQBuAF8AZgBvAHIAbQAA/////wAA///////////9AAACxQAAAAAaADoAOgA6AC8AdgBEAG8AYwBrAEEAcgBlAGEBAAAAAzQAAQAAAAH7AAAAAgAAAAIAAAAAAAAAAfsAAAACAAAAAgAAAAEAAAAA/AAAACkAAAAAHAA6ADoAOgBNAEQASQBBAFIARQBBAFQASQBMAEUBAAAAAgIAAf0AAAJFAAAAABoAOgA6ADoALwB2AEQAbwBjAGsAQQByAGUAYQEAAAAB1AAAAAAAAvsAAAAHAAAABwAAAAMAAAAGAAAABQAAAAQAAAACAAAAAQAAAAD7AAAABwAAAAcAAAAAAAAAAQAAAAIAAAADAAAABAAAAAUAAAAG/AAAADkAAAAAJAAwADoAOgA6AF8AdABiAHMAZQBhAHIAYwBoAF8AZgBvAHIAbQAA/////wAA///////////8AAAAOQAAAAAkADAAOgA6ADoAXwB0AGIAdABhAGcAdwBpAG4AXwBmAG8AcgBtAAD/////AAD///////////wAAAA7AAAAACYAMAA6ADoAOgBfAHQAYgB0AGEAZwByAGUAZgBzAF8AZgBvAHIAbQAA/////wAA///////////8AAAANwAAAAAiADAAOgA6ADoAXwB0AGIAcwBoAGUAbABsAF8AZgBvAHIAbQEA/////wAA///////////8AAAATQAAAAA4ADAAOgA6ADoAXwB0AGIAbQBlAHMAcwBhAGcAZQBzAF8AYgByAG8AdwBzAGUAcgBfAGYAbwByAG0AAP////8AAP///////////AAAAD0AAAAAKAAwADoAOgA6AF8AdABiAHQAZQByAG0AaQBuAGEAbABfAGYAbwByAG0AAP////8AAP///////////AAAAD8AAAAAKgAwADoAOgA6AF8AdABiAG8AdQB0AHAAdQB0AHcAaQBuAF8AZgBvAHIAbQAA/////wAA//////////8AAAAA2wAAAAAAAAAC2wAAAAAAAAAB2wAAAAAAAAAD2wAAAAAAAAAA
+QTOOLBAR 2 0
+AAAA/wAAAAD9AAAAAAAAB4AAAAPZAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAQAFMAdABhAG4AZABhAHIAZAEAAAAA/////wAAAAAAAAAAAAAAHgBDAHUAcgByAGUAbgB0ACAAQwBvAG4AdABlAHgAdAEAAAKi/////wAAAAAAAAAA
+_tbstandard_form 1
+_tbcontext_form 1
+END_MONITOR_CONFIGS:
+CWD: ..\ObjectOrientedPythonTraining
+BUFFER: BN="MyNoteBook\notebook.py"""""
+BI: MA=1 74 1  TABS= WWS=9 IWT= ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="," SC="" SCE= SCU= ALM=0 FWRM=0 HMRE=0 HMRBW=0 SPCWT= SWF=2 SM= STAT= BFONT="" MFONT="" DF=1024 SCO=
+VIEW: LN=.0 CL=1 LE=0 CX=2 CY=0 WI=5 BI=3 HT=0 HN=0 HF=0 HC=4 HB=4
+BUFFER: BN="MyNoteBook\menu.py"""""
+BI: MA=1 74 1  TABS= WWS=9 IWT= ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=	HM=0 MF=33554432 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="," SC="" SCE= SCU= ALM=0 FWRM=0 HMRE=0 HMRBW=0 SPCWT= SWF=2 SM= STAT= BFONT="" MFONT="" DF=1024 SCO=
+VIEW: LN=.-1 CL=1 LE=0 CX=2 CY=0 WI=5 BI=1 HT=0 HN=0 HF=0 HC=4 HB=4
+BUFFER: BN="MyNoteBook\command_option.py"""""
+BI: MA=1 74 1  TABS= WWS=9 IWT= ST=8 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=	HM=0 MF=52429408 TL=0 MLL=0 ASE=0 LNL=1 LCF=0 CAPS=0 E=0 ESBU2=-1 CL="," SC="" SCE= SCU= ALM=0 FWRM=0 HMRE=0 HMRBW=0 SPCWT= SWF=2 SM= STAT= BFONT="" MFONT="" DF=1024 SCO=
+VIEW: LN=.0 CL=1 LE=0 CX=2 CY=0 WI=5 BI=2 HT=0 HN=0 HF=0 HC=4 HB=4
+WINDOW: 1 20 1534 492 0 0 N  WF=0 WT=2 ",,," DID=0 MI="*,,," PI=0
+BUFFER: BN="MyNoteBook\menu.py"""""
+VIEW: LN=.0 CL=1 LE=0 CX=2 CY=0 WI=39 BI=1 HT=0 HN=0 HF=0 HC=4 HB=4
+WINDOW: 1 20 1534 492 0 0 N  WF=0 WT=3 ",,," DID=0 MI="*,,," PI=0
+BUFFER: BN="MyNoteBook\notebook.py"""""
+VIEW: LN=.0 CL=1 LE=0 CX=2 CY=0 WI=42 BI=3 HT=0 HN=0 HF=0 HC=4 HB=4
+WINDOW: 1 20 1534 492 0 0 N  WF=0 WT=4 ",,," DID=0 MI="*,,," PI=0
+BUFFER: BN="MyNoteBook\command_option.py"""""
+VIEW: LN=.0 CL=1 LE=0 CX=2 CY=0 WI=36 BI=2 HT=0 HN=0 HF=0 HC=4 HB=4
+MDISTATE: 1
+AAAAAwAAAAIAAAAB2gAAAAIAMAAAAAAAAAAzAAAHfwAABAsAAAAAAAAAAAAAB38AAAQ3AAAAAuoAAAOwAAAAAvsAAAADAAAAAwAAAAAAAAABAAAAAvsAAAADAAAAAwAAAAAAAAACAAAAAfwAAAExAAAAASQANAA6ADoAOgBDADoAXABVAHMAZQByAHMAXABzAGYAbwByAHIAZQBzAHQAXABPAG4AZQBEAHIAaQB2AGUAIAAtACAAQgBlAGEAdQBmAG8AcgB0ACAAQwBvAHUAbgB0AHkAIABHAG8AdgBlAHIAbgBtAGUAbgB0AFwARABvAGMAdQBtAGUAbgB0AHMAXABEAGUAdgBlAGwAbwBwAG0AZQBuAHQAXABQAHkAdABoAG8AbgBcAE8AYgBqAGUAYwB0AE8AcgBpAGUAbgB0AGUAZABQAHkAdABoAG8AbgBUAHIAYQBpAG4AaQBuAGcAXABNAHkATgBvAHQAZQBCAG8AbwBrAFwAYwBvAG0AbQBhAG4AZABfAG8AcAB0AGkAbwBuAC4AcAB5AQD/////AAH8AAABHQAAAAEQADIAOgA6ADoAQwA6AFwAVQBzAGUAcgBzAFwAcwBmAG8AcgByAGUAcwB0AFwATwBuAGUARAByAGkAdgBlACAALQAgAEIAZQBhAHUAZgBvAHIAdAAgAEMAbwB1AG4AdAB5ACAARwBvAHYAZQByAG4AbQBlAG4AdABcAEQAbwBjAHUAbQBlAG4AdABzAFwARABlAHYAZQBsAG8AcABtAGUAbgB0AFwAUAB5AHQAaABvAG4AXABPAGIAagBlAGMAdABPAHIAaQBlAG4AdABlAGQAUAB5AHQAaABvAG4AVAByAGEAaQBuAGkAbgBnAFwATQB5AE4AbwB0AGUAQgBvAG8AawBcAG0AZQBuAHUALgBwAHkAAP////8AAPwAAAElAAAAARgAMwA6ADoAOgBDADoAXABVAHMAZQByAHMAXABzAGYAbwByAHIAZQBzAHQAXABPAG4AZQBEAHIAaQB2AGUAIAAtACAAQgBlAGEAdQBmAG8AcgB0ACAAQwBvAHUAbgB0AHkAIABHAG8AdgBlAHIAbgBtAGUAbgB0AFwARABvAGMAdQBtAGUAbgB0AHMAXABEAGUAdgBlAGwAbwBwAG0AZQBuAHQAXABQAHkAdABoAG8AbgBcAE8AYgBqAGUAYwB0AE8AcgBpAGUAbgB0AGUAZABQAHkAdABoAG8AbgBUAHIAYQBpAG4AaQBuAGcAXABNAHkATgBvAHQAZQBCAG8AbwBrAFwAbgBvAHQAZQBiAG8AbwBrAC4AcAB5AAD/////AAAAAAAA
+FILEHIST: 9
+..\Python_3_Object_Oriented_Programming\first_class.py
+..\Python_3_Object_Oriented_Programming\point_class.py
+..\Python_3_Object_Oriented_Programming\point_class_v2.py
+..\Python_3_Object_Oriented_Programming\point_class_v3.py
+MyNoteBook\notebook.py
+MyNoteBook\menu.py
+MyNoteBook\command_option.py
+..\active_directory\ad_query.py
+..\active_directory\ADComputerQuery.py
+ALLFILEHIST: 13
+..\Python_3_Object_Oriented_Programming\point_class_v3.py
+..\Python_3_Object_Oriented_Programming\point_class_v2.py
+..\Python_3_Object_Oriented_Programming\point_class.py
+MyNoteBook\notebook.py
+MyNoteBook\menu.py
+..\Python_3_Object_Oriented_Programming\first_class.py
+..\LibraryApps\BCLibDataAnalysis\data\data_formatter.py
+MyNoteBook\command_option.py
+..\LibraryApps\BCLibDataAnalysis\apps\cloud_library.py
+..\active_directory\ADComputerQuery.py
+..\active_directory\ad_query.py
+..\LibraryApps\BCLibDataAnalysis\data\__init__.py
+..\LibraryApps\BCLibDataAnalysis\common\__init__.py
+DEBUG2: 0
+TBCLASS: 0 0

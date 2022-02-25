@@ -4,8 +4,7 @@ from notebook import Notebook, Note
 
 class Menu:
     def __init__(self):
-        self.notebook = Notebook
-
+        self.notebook = Notebook()
         self.choices = {
             "1": self.show_notes,
             "2": self.search_notes,
@@ -32,7 +31,7 @@ class Menu:
         """
         while True:
             self.display_menu()
-            choice = input("Enter an option")
+            choice = input("Enter an option: ")
             action = self.choices.get(choice)
             if action:
                 action()
