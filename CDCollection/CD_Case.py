@@ -67,12 +67,15 @@ class CDCase:
             print("{}: {}".format(cd.cd_id, cd.title))
 
     def delete_cd(self, cd_id):
+        pass
+
+    def check_out_cd(self, cd_id):
+        pass
+
+    def _find_cd(self, cd_id):
         for cd in self.cds:
             if cd.cd_id == cd_id:
-                print("{} has been removed".format(cd.title))
-                self.cds.remove(cd)
-
-
+                return cd
 
 
 
