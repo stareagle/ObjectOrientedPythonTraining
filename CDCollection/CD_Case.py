@@ -1,3 +1,6 @@
+from datetime import date
+from datetime import timedelta
+
 last_cd_id = 0
 
 
@@ -67,10 +70,20 @@ class CDCase:
             print("{}: {}".format(cd.cd_id, cd.title))
 
     def delete_cd(self, cd_id):
-        pass
+        cd = self._find_cd(cd_id)
+        if cd:
+            print("{} has been removed".format(cd.title))
+            self.cds.remove(cd)
+        else:
+            print("CD not found")
 
     def check_out_cd(self, cd_id):
-        pass
+        cd = self._find_cd(cd_id)
+        if cd and cd.checked_out == False:
+            print("Checked Out {}, it is due back on {}".format(cd.title, date.today() + timedelta(days=14)))
+            cd.checked_out = True
+        else:
+            print("This is not available for checkout")
 
     def _find_cd(self, cd_id):
         for cd in self.cds:
